@@ -43,9 +43,9 @@
             bindings = <
 &kp LC(LG(Q))  &kp F1  &kp F2                &kp F3                &kp F4                &kp F5                &kp F6      &kp F7    &kp F8    &kp F9  &kp F10            &kp F11          &kp F12       &kp DEL  &kp DEL
 &none          &none   &kp LS(LG(NUMBER_2))  &kp LS(LG(NUMBER_3))  &kp LS(LG(NUMBER_4))  &kp LG(LS(NUMBER_5))  &none       &none     &none     &none   &none              &none            &none                  &none
-&none          &none   &none                 &none                 &none                 &none                 &none       &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT          &none                                   &bootloader
+&none          &none   &none                 &none                 &none                 &none                 &none       &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT          &none                                   &none
 &none                  &none                 &none                 &none                 &none                 &none       &none     &none     &none   &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp K_MUTE             &trans
-&trans         &none                         &kp C_PREV                                                        &kp C_PLAY                              &kp C_NEXT         &kp LA(UP)       &kp LA(DOWN)           &rgb_ug RGB_TOG
+&none          &none                         &kp C_PREV                                                        &kp C_PLAY                              &kp C_NEXT         &kp LA(UP)       &kp LA(DOWN)           &rgb_ug RGB_TOG
             >;
         };
 
